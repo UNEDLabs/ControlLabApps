@@ -1,2 +1,2 @@
 # ControlLabApps
-EJS aplications for laboratory control practices
+EJS applications for laboratory control practices
